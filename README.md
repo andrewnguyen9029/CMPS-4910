@@ -1,2 +1,2 @@
 # CMPS-4910-SP22
-Group 3
+Group Three
