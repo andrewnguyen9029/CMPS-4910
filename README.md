@@ -1,3 +1,3 @@
 # Project
-from readme, how to host G3.html? 
+from readme, how to host index.html? 
 
