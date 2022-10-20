@@ -1,2 +1,3 @@
-# CMPS-4910-SP22
-Group Three: from readme, not html
+# Project
+from readme, how to host G3.html? 
+
