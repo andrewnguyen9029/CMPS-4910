@@ -10,10 +10,13 @@ September 30, 2022  Added a index.html
 October 14, 2022    Project Proposal 
                         - 1 Exectuicve Summary 
                         - 2 Introduction 
-                            2.1, 2.2, 2.3, 2.4
+                            2.1 Target Market
+                            2.2 Competirors
+                            2.3 Team Description 
+                                - Andrew 
+                            2.4 Work Plan
                         - 3 Specific Requirements 
                             3.1 User Interfaces
-                            3.2 Communication Interface 
                         - 4 Works Cited
                             waterfall development, agile mobile app development, and framework
                     Individual Contributions 
