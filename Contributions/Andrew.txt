@@ -2,7 +2,7 @@ Andrew Nguyen
 
 Individual Contributions 
 
-CMPS-4910
+Term CMPS-4910
 
 August 26, 2022     Created the Github Repository (reademe)                 
 September 16, 2022  Set up group discrod 
@@ -16,7 +16,6 @@ October 14, 2022    Project Proposal
                             3.2 Communication Interface 
                         - 4 Works Cited
                             waterfall development, agile mobile app development, framework
-
                     Individual Contributions 
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
@@ -24,7 +23,7 @@ October 28, 2022    Proposal Pitch Presentation
                             - Assigned different slides to Individual team member 
 December 9, 2022    
 
-CMPS 4928
+Term CMPS 4928
 
 
 
