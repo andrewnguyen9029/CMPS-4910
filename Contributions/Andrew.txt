@@ -1,11 +1,12 @@
 Andrew Nguyen
 
-Individual Contributions
+Individual Contributions 
 
-August 26, 2022     Created the Github Repository (reademe)
-                    
+CMPS-4910
+
+August 26, 2022     Created the Github Repository (reademe)                 
+September 16, 2022  Set up group discrod 
 September 30, 2022  Added a index.html 
-
 October 14, 2022    Project Proposal 
                         - 1 Exectuicve Summary 
                         - 2 Introduction 
@@ -17,11 +18,12 @@ October 14, 2022    Project Proposal
                             waterfall development, agile mobile app development, framework
 
                     Individual Contributions 
-
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
                             - slide 1 - 8
                             - Assigned different slides to Individual team member 
+
+CMPS 4928
 
 
 
