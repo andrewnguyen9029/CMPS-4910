@@ -1,4 +1,10 @@
-                    Created the Github Repository 
+Andrew Nguyen
+
+Individual Contributions
+
+August 26, 2022     Created the Github Repository (reademe)
+                    
+September 30, 2022  Added a index.html 
 
 October 14, 2022    Project Proposal 
                         - 1 Exectuicve Summary 
@@ -14,8 +20,13 @@ October 14, 2022    Project Proposal
 
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
-                        - slide 1 - 8
-                        - Assigned different slides to Individual team member 
+                            - slide 1 - 8
+                            - Assigned different slides to Individual team member 
+
+
+
+
+
 
 
 
