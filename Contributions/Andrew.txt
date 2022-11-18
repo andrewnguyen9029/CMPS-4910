@@ -17,8 +17,8 @@ October 14, 2022    Project Proposal
                     - Page 4    2 Introduction (written by Andrew Nguyen)
                       Page 7        2.1 Target Market (written by Andrew Nguyen)
                       Page 7        2.2 Competirors (written by Andrew Nguyen)
-                      Page 8        2.3 Team Description (written by Andrew Nguyen)
-                                         - Andrew 
+                      Page 8        2.3 Team Description 
+                                         - Andrew Nguyen
                       Page 9        2.4 Work Plan (written by Andrew Nguyen)
                     - Page 10   3 Specific Requirements 
                       Page 10       3.1 User Interfaces (written by Andrew Nguyen)
