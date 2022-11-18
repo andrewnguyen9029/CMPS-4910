@@ -21,7 +21,7 @@ October 14, 2022    Project Proposal
                             2.4 Work Plan (written by Andrew Nguyen)
                         - 3 Specific Requirements 
                             3.1 User Interfaces (written by Andrew Nguyen)
-                        - 4 Works Cited
+                        - 4 Works Cited 
                             waterfall development, agile mobile app development, and framework
                     Individual Contributions 
 
