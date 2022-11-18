@@ -11,26 +11,26 @@ September 16, 2022  Set up group discord
 September 30, 2022  Added a index.html 
 
 October 14, 2022    Project Proposal 
-                        - 1 Exectuicve Summary 
-                        - 2 Introduction 
-                            2.1 Target Market
-                            2.2 Competirors
-                            2.3 Team Description 
+                        - 1 Exectuicve Summary (written by Andrew Nguyen)
+                        - 2 Introduction (written by Andrew Nguyen)
+                            2.1 Target Market (written by Andrew Nguyen)
+                            2.2 Competirors (written by Andrew Nguyen)
+                            2.3 Team Description (written by Andrew Nguyen)
                                 - Andrew 
-                            2.4 Work Plan
+                            2.4 Work Plan (written by Andrew Nguyen)
                         - 3 Specific Requirements 
-                            3.1 User Interfaces
+                            3.1 User Interfaces (written by Andrew Nguyen)
                         - 4 Works Cited
                             waterfall development, agile mobile app development, and framework
                     Individual Contributions 
 
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
-                            - slide 1 - 8
+                            - slide 1 - 8 (written by Andrew Nguyen)
                             - Assigned different slides to Individual team member 
 
 December 9, 2022    End of Term Presentation 
-                        - slide 1 - 4 (Modern Design and Layout of the Mobile Application)
+                        - slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
 
 Term CMPS 4928
 
