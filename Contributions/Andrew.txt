@@ -17,6 +17,8 @@ September 16, 2022  Set up group discord
 September 30, 2022  Created the Group Project Github Repository (READme)   
                     Added a index.html 
 
+October 7, 2022     Discuss project as well as proposal revisions
+
 October 14, 2022    Project Proposal 
                       Page(s)     Section(s)
                     - Pg 1          Cover Page (written by Andrew Nguyen)
@@ -35,12 +37,20 @@ October 14, 2022    Project Proposal
                                         - Agile mobile app development (cited by Andrew Nguyen)
                                         - Comprehensive Software Project Management Framework (cited by Andrew Nguyen)
 
-October 14, 2022   Individual Contributions 
+                     Individual Contributions 
+
+October 21, 2022    Brainstorm project pitch
 
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
                             - Slide 1 - 8 (written by Andrew Nguyen)
                             - Assigned different slides to Individual team member 
+
+Novemeber 4, 2022   Discuss project progress
+
+December 2, 2022    
+
+December 9, 2022    End-of-term Progress Report 
 
 December 9, 2022    End of Term Presentation 
                         - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
