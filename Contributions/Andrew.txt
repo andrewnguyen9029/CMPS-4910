@@ -51,11 +51,10 @@ Novemeber 4, 2022   Discuss project progress
 December 2, 2022    
 
 December 9, 2022    End-of-term Progress Report 
+                        - Status Report
 
 December 9, 2022    End of Term Presentation 
                         - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
-
-
 _________________________________________________________________________________________________________________________
 
 Term CMPS 4928
