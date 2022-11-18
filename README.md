@@ -1,23 +1,9 @@
 # Project
 
-CMPS 4928
+For our project, we propose the development of a pop-up verification, such as a puzzle or entering a code of numbers that, upon completion of the verification, the alarm would then turn off. By including a widget of a verification puzzle or number entering login for the user to complete, it would allow the individual to be fully conscious by the time they shut off their alarm and they can carry on with their daily schedule on time.
 
-Summary
-
-January 23,2023 Navigation Bar
-January 30 ,2023 Screen Alarm
-
-February 6, 2023 Synching internal clock
-February 13, 2023 Alarm testing
-February 20, 2023 Screen Setting and Obstacles
-February 27, 2023 Customizing verification widget
-
-March 6, 2023 Verification widget functions
-March 13, 2023 Screen Time
-March 20, 2023 Timer functions properly
-March 27, 2023 Quality of Life Changes
-
-April 3, 2023 Finalization
-April 10, 2023 Finalization
-
-(Subject to change as the progression of the project commences)
+Objective
+o To provide a simple application verification that is intended to reduce unanswered alarms from ringing.
+o To ensure the user is conscious by the time they turn off their alarm.
+o Reduce the need for multiple alarms.
+o Provide a primary promote-specific pop-up verification, for the individual to complete, to turn off their set alarm.
