@@ -22,16 +22,19 @@ October 14, 2022    Project Proposal
                         - 3 Specific Requirements 
                             3.1 User Interfaces (written by Andrew Nguyen)
                         - 4 Works Cited 
-                            waterfall development, agile mobile app development, and framework
-                    Individual Contributions 
+                            - Waterfall Software Development Life Cycle 
+                            - Agile mobile app development 
+                            - Comprehensive Software Project Management Framework
+
+ October 14, 2022   Individual Contributions 
 
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
-                            - slide 1 - 8 (written by Andrew Nguyen)
+                            - Slide 1 - 8 (written by Andrew Nguyen)
                             - Assigned different slides to Individual team member 
 
 December 9, 2022    End of Term Presentation 
-                        - slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
+                        - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
 
 Term CMPS 4928
 
