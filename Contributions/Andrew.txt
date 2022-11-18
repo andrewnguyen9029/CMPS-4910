@@ -30,9 +30,9 @@ October 14, 2022    Project Proposal
                       Pg 8            2.3 Team Description 
                                             - Andrew Nguyen
                       Pg 9            2.4 Work Plan (written by Andrew Nguyen)
-                    - Pg 10     3 Specific Requirements 
+                    - Pg 10       3 Specific Requirements 
                       Pg 10          3.1 User Interfaces (written by Andrew Nguyen)
-                    - Pg 11     4 Works Cited 
+                    - Pg 11       4 Works Cited 
                                         - Waterfall Software Development Life Cycle (cited by Andrew Nguyen)
                                         - Agile mobile app development (cited by Andrew Nguyen)
                                         - Comprehensive Software Project Management Framework (cited by Andrew Nguyen)
@@ -52,7 +52,7 @@ December 2, 2022
 
 December 9, 2022    End-of-term Progress Report 
                         - Status Report (Andrew Nguyen’s Clock Project Perspective Status Report written by Andrew Nguyen)
-                              ~ Table 1.0 and 2.0 (written by Andrew Nguyen))
+                              ~ Table 1.0 and 2.0 (written by Andrew Nguyen)
 
 December 9, 2022    End of Term Presentation 
                         - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
