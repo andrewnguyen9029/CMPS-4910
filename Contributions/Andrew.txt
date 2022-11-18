@@ -51,7 +51,7 @@ Novemeber 4, 2022   Discuss project progress
 December 2, 2022    
 
 December 9, 2022    End-of-term Progress Report 
-                        - Status Report
+                        - Status Report (Andrew Nguyen’s Clock Project Perspective Status Report written by Andrew Nguyen)
 
 December 9, 2022    End of Term Presentation 
                         - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
