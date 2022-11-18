@@ -4,11 +4,15 @@ Individual Contributions Summary
 
 Term CMPS-4910
 
-August 26, 2022     Created the Github Repository (READme)   
+August 26, 2022     (Was in a group of two individual.)
 
-September 16, 2022  Set up group discord 
+September 2, 2022   (Other individual switched to another group, was played in group two.)
 
-September 30, 2022  Added a index.html 
+September 16, 2022  (Was placed in group three.) 
+
+September 30, 2022  Created the Github Repository (READme)   
+                    Set up group discord 
+                    Added a index.html 
 
 October 14, 2022    Project Proposal 
                       Page(s)     Section(s)
@@ -39,14 +43,6 @@ December 9, 2022    End of Term Presentation
                         - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
 
 Term CMPS 4928
-
-
-
-
-
-
-
-
 
 
 
