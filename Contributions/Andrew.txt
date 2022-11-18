@@ -4,14 +4,17 @@ Individual Contributions Summary
 
 Term CMPS-4910
 
+Dates               Events 
+
 August 26, 2022     (Was in a group of two individual.)
 
 September 2, 2022   (Other individual switched to another group, was played in group two.)
 
-September 16, 2022  (Was placed in group three.) 
+September 9, 2022   (Was placed in group three.) 
 
-September 30, 2022  Created the Github Repository (READme)   
-                    Set up group discord 
+September 16, 2022  Set up group discord 
+
+September 30, 2022  Created the Group Project Github Repository (READme)   
                     Added a index.html 
 
 October 14, 2022    Project Proposal 
