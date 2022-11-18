@@ -1,12 +1,15 @@
 Andrew Nguyen
 
-Individual Contributions 
+Individual Contributions Summary 
 
 Term CMPS-4910
 
-August 26, 2022     Created the Github Repository (reademe)                 
+August 26, 2022     Created the Github Repository (READme)   
+
 September 16, 2022  Set up group discord 
+
 September 30, 2022  Added a index.html 
+
 October 14, 2022    Project Proposal 
                         - 1 Exectuicve Summary 
                         - 2 Introduction 
@@ -20,11 +23,14 @@ October 14, 2022    Project Proposal
                         - 4 Works Cited
                             waterfall development, agile mobile app development, and framework
                     Individual Contributions 
+
 October 28, 2022    Proposal Pitch Presentation 
                         Created the Presenation 
                             - slide 1 - 8
                             - Assigned different slides to Individual team member 
-December 9, 2022    
+
+December 9, 2022    End of Term Presentation 
+                        - slide 1 - 4 (Modern Design and Layout of the Mobile Application)
 
 Term CMPS 4928
 
