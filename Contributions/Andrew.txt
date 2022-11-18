@@ -11,20 +11,21 @@ September 16, 2022  Set up group discord
 September 30, 2022  Added a index.html 
 
 October 14, 2022    Project Proposal 
-                        - 0 Contents (written by Andrew Nguyen)
-                        - 1 Exectuicve Summary (written by Andrew Nguyen)
-                        - 2 Introduction (written by Andrew Nguyen)
-                            2.1 Target Market (written by Andrew Nguyen)
-                            2.2 Competirors (written by Andrew Nguyen)
-                            2.3 Team Description (written by Andrew Nguyen)
-                                - Andrew 
-                            2.4 Work Plan (written by Andrew Nguyen)
-                        - 3 Specific Requirements 
-                            3.1 User Interfaces (written by Andrew Nguyen)
-                        - 4 Works Cited 
-                            - Waterfall Software Development Life Cycle 
-                            - Agile mobile app development 
-                            - Comprehensive Software Project Management Framework
+                    - Page 1      Cover Page (written by Andrew Nguyen)
+                    - Page 2      Contents (written by Andrew Nguyen)
+                    - Page 3    1 Exectuicve Summary (written by Andrew Nguyen)
+                    - Page 4    2 Introduction (written by Andrew Nguyen)
+                      Page 7        2.1 Target Market (written by Andrew Nguyen)
+                      Page 7        2.2 Competirors (written by Andrew Nguyen)
+                      Page 8        2.3 Team Description (written by Andrew Nguyen)
+                                         - Andrew 
+                      Page 9        2.4 Work Plan (written by Andrew Nguyen)
+                    - Page 10   3 Specific Requirements 
+                      Page 10       3.1 User Interfaces (written by Andrew Nguyen)
+                    - Page 11   4 Works Cited 
+                                    - Waterfall Software Development Life Cycle (cited by Andrew Nguyen)
+                                    - Agile mobile app development (cited by Andrew Nguyen)
+                                    - Comprehensive Software Project Management Framework (cited by Andrew Nguyen)
 
 October 14, 2022   Individual Contributions 
 
