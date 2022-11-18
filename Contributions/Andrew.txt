@@ -23,10 +23,10 @@ October 14, 2022    Project Proposal
                       Page(s)     Section(s)
                     - Pg 1          Cover Page (written by Andrew Nguyen)
                     - Pg 2          Contents (written by Andrew Nguyen)
-                    - Pg 3        1 Exectuicve Summary (written by Andrew Nguyen)
+                    - Pg 3        1 Executive Summary (written by Andrew Nguyen)
                     - Pg 4 to 6   2 Introduction (written by Andrew Nguyen)
                       Pg 7            2.1 Target Market (written by Andrew Nguyen)
-                      Pg 7            2.2 Competirors (written by Andrew Nguyen)
+                      Pg 7            2.2 Competitors (written by Andrew Nguyen)
                       Pg 8            2.3 Team Description 
                                             - Andrew Nguyen
                       Pg 9            2.4 Work Plan (written by Andrew Nguyen)
