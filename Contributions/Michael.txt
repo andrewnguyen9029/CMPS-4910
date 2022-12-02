@@ -6,7 +6,7 @@ GitHub Location: https://github.com/andrewnguyen9029/CMPS-4910
 Project 				Feature
 Project Pitch      			Suggested social media website
                     					-rejected by professor
-                    				Suggested alarm clock app
+                    			Suggested alarm clock app
 						-approved
 
 Project Proposal    			Overall
