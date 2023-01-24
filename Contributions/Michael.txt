@@ -1,0 +1,28 @@
+Michael Abad
+Individual Term Contribution Report
+December 9, 2022
+
+GitHub Location: https://github.com/andrewnguyen9029/CMPS-4910
+Project 				Feature
+Project Pitch      			Suggested social media website
+                    					-rejected by professor
+                    			Suggested alarm clock app
+						-approved
+
+Project Proposal    			Overall
+						-revision
+						-grammar
+					2.3 Team Description
+						-Michael
+					3.3 Communication Interfaces
+					3.4 Security
+					4 Works Cited
+						-What is Application Security?
+
+Proposal Pitch				Slides 7-8
+
+End-of-Term Progress Report		Table 2.0
+
+End-of-Term Presentation		Slides 5-6
+						-Verification Widget Obstacles
+						-PEMDAS Example
