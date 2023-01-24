@@ -2,6 +2,36 @@ Andrew Nguyen
 
 Individual Contributions Summary 
 
+Term: Spring 2023 CMPS 4928
+
+Dates               Events 
+
+January 23,2023    Downloaded The Framework: React Native and Expo 
+
+January 30 ,2023   Plan to implement a navigation bar 
+                      -
+February 6, 2023   
+
+February 13, 2023 
+
+February 20, 2023   
+
+February 27, 2023   
+
+March 6, 2023    
+
+March 13, 2023   
+
+March 20, 2023   
+
+March 27, 2023      
+
+April 3, 2023  
+
+April 10, 2023   
+
+_________________________________________________________________________________________________________________________
+
 Term: Fall 2022 CMPS-4910
 
 Dates               Events 
@@ -56,32 +86,6 @@ December 9, 2022    End-of-term Progress Report
 
 December 9, 2022    End of Term Presentation 
                         - Slide 1 - 4 (Modern Design and Layout of the Mobile Application written by Andrew Nguyen)
-_________________________________________________________________________________________________________________________
-
-Term: Spring 2023 CMPS 4928
-
-January 23,2023    Downloaded The Framework: React Native and Expo 
-
-January 30 ,2023   Plan to implement a navigation bar 
-                      -
-February 6, 2023   
-
-February 13, 2023 
-
-February 20, 2023   
-
-February 27, 2023   
-
-March 6, 2023    
-
-March 13, 2023   
-
-March 20, 2023   
-
-March 27, 2023      
-
-April 3, 2023  
-
-April 10, 2023      
+    
 
 
