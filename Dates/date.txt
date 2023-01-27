@@ -1,13 +1,16 @@
 A rough Outline of the project
 
-January 23,2023     Implementing Framework: Reactnative/Xxpo and simulator 
-January 30 ,2023    Navigation Bar
-                    Screen Alarm
+January 23,2023    Implementing Framework: Reactnative and Expo and simulator 
+January 30,2023    Create a Bottom Navigation Bar along with icons and push the app to github by Andrew Nguyen
 
 February 6, 2023 Synching internal clock
+                    - 
 February 13, 2023 Alarm testing
+                    -
 February 20, 2023 Screen Setting and Obstacles
+                    - 
 February 27, 2023 Customizing verification widget
+                    - 
 
 March 6, 2023 Verification widget functions
 March 13, 2023 Screen Time
@@ -18,3 +21,12 @@ April 3, 2023 Finalization
 April 10, 2023 Finalization
 
 (Subject to change as the progression of the project commences)
+
+Group Responsibilty 
+Alarm Screen: Andrew, Michael, and Ranbir
+
+Individual Screens
+World Clock Michael
+Alarm       Group: Andrew, Michael, and Ranbir 
+Stopwatch   Andrew
+Timer       Ranbir
