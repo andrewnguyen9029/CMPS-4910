@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Button } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Alarm from './Screens/Alarm';
@@ -48,7 +48,17 @@ export default function App() {
           })}
         >
           <Tab.Screen name = "WorldClock" component = {WorldClock}/>
-          <Tab.Screen name = "Alarm" component = {Alarm} />
+          <Tab.Screen name = "Alarm" component = {Alarm} 
+          //change title of a screen
+          //options = {{title: 'alarm'}}
+          options = {{
+            headerRight: ()=> (
+              <Button onPress = { ()=> alert('right button click')}
+              title = {' +  '}
+              />
+            )
+          }}
+          />
           <Tab.Screen name = "Stopwatch" component = {Stopwatch} />
           <Tab.Screen name = "Timer" component = {Timer}/>
         </Tab.Navigator>
@@ -57,6 +67,7 @@ export default function App() {
 }
 
 // Bottom Navigation and icons implemented by Andrew Nguyen
+// top right bottom; however, timer selector need to be added 54-58
 /*
 const styles = StyleSheet.create({
   container: {

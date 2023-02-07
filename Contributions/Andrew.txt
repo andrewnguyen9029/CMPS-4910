@@ -11,25 +11,31 @@ January 23,2023    Downloaded The Framework: React Native and Expo
 January 30 ,2023   Implement a bottom navigation bar along with icons
                       - push the app to github and randomly assigned individual screen
 
-February 6, 2023   Rearching how to create an alarm app screen 
+February 6, 2023   Researching how to create an alarm app screen 
                       - created a right header button, still trying to allow the user to select their desired time chosen
+                      - brainstorm and researching how to allow the user to select the time date 
+                      
 February 13, 2023 
-
+                      - 
 February 20, 2023   
-
+                      -
 February 27, 2023   
-
+                      -
 
 March 6, 2023       Plan to Begin researching my stopwatch screen that was assign to me
                       - researching information on how to appoarch as well as desgin a stopwatch using reactnative
 March 13, 2023      Plan to work on my stopwatch screen 
-
+                      -
 March 20, 2023      plan to work on my stopwatch screen 
-
+                      -
 March 27, 2023      plan to work on my stopwatch screen 
+                      -
 
-
-April 3, 2023  
+April 3, 2023     Finalizing each group memeber's screen contribution 
+                  - alarm screen Group
+                  - world clock screen desgin by Michael 
+                  - stopwatch screen desgin by Andrew
+                  - timer screen desgin by Ranbir 
 
 April 10, 2023    Final
 
