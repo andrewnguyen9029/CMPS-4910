@@ -7,7 +7,7 @@ Term: Spring 2023 CMPS 4928
 Dates               Event(s) Details
 
 January 23,2023    Downloaded The Framework: React Native and Expo 
-                      - creating a mobile application file and installing an iOS simulator 
+                      - creating a mobile application file and installing an iOS simulator
 
 January 30 ,2023   Implement a bottom navigation bar along with icons
                       - push the app to github and randomly assigned individual screen
@@ -33,7 +33,7 @@ March 13, 2023      Plan to work on my stopwatch screen
 
 March 20, 2023      plan to work on my stopwatch screen 
                       -
-                      
+
 March 27, 2023      plan to work on my stopwatch screen 
                       -
 
