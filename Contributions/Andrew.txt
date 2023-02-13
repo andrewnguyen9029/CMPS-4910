@@ -19,8 +19,8 @@ February 6, 2023   Researching how to create an alarm app screen
 February 13, 2023   Creating the Time Picker
                       - Working on displaying the selected time by the user on the screen
 
-February 20, 2023   
-                      -
+February 20, 2023   Displaying the time selected by the user
+                      - Displacing the time selected by the user on the screen 
 
 February 27, 2023   
                       -
