@@ -53,7 +53,7 @@ export default function App() {
           //options = {{title: 'alarm'}}
           options = {{
             headerRight: ()=> (
-              <Button onPress = { ()=> alert('right button click')}
+              <Button onPress = { ()=> alert('Button was the wrong approach')}
               title = {' +  '}
               />
             )

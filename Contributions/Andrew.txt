@@ -22,8 +22,11 @@ February 13, 2023   Creating the Time Picker
 February 20, 2023   Displaying the time selected by the user
                       - Displacing the time selected by the user on the screen 
 
-February 27, 2023   
-                      -
+February 27, 2023   Pass the initiative over to either Michael or Ranbir 
+                      - After uploading alll the files for the mobile application, implementing the bottom navitigation along with the appropiate icons, 
+                        as well as creating the function for the user to select their desired time and displayed it on the screen. 
+                        I pass the initheative to either Michael or Ranbir. Either Michael or Ranbir are responsbile in implement the alarm function. 
+                        I am going to begin researching on how to appoarch creating the stopwatch screen. 
 
 March 6, 2023       Plan to Begin researching my stopwatch screen that was assign to me
                       - researching information on how to appoarch as well as desgin a stopwatch using reactnative
