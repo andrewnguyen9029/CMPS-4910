@@ -29,15 +29,15 @@ February 27, 2023   Pass the initiative over to either Michael or Ranbir
                         I am going to begin researching on how to approach creating the stopwatch screen. 
 
 March 6, 2023       Plan to Begin researching my stopwatch screen that was assign to me
-                      - researching information on how to approach as well as desgin a stopwatch using reactnative
+                      - Researching information on how to approach as well as desgin a stopwatch using reactnative
 
 March 13, 2023      Plan to work on my stopwatch screen 
                       -
 
-March 20, 2023      plan to work on my stopwatch screen 
+March 20, 2023      Plan to work on my stopwatch screen 
                       -
 
-March 27, 2023      plan to work on my stopwatch screen 
+March 27, 2023      Plan to work on my stopwatch screen 
                       -
 
 April 3, 2023     Finalizing each group memeber's screen contribution 
