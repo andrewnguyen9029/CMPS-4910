@@ -6,7 +6,7 @@ January 30,2023     Create a Bottom Navigation Bar along with icons and push the
 February 6, 2023    Synching internal clock
                     - changes: created an alarm screen  
 February 13, 2023   Alarm testing
-                    - chagnges: created the timer picker for the user to selecte implemented by Andrew Nguyen
+                    - changes: created the timer picker for the user to selecte implemented by Andrew Nguyen
 February 20, 2023   Screen Setting and Obstacles
                     - changes: display the time choosen by the user on the screen implemented by Andrew Nguyen
 February 27, 2023   Customizing verification widget
