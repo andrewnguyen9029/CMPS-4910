@@ -29,6 +29,9 @@ April 10, 2023      Finalization
 
 Group Responsibilty 
 Alarm Screen: Andrew, Michael, and Ranbir
+Individual to the Group Screen 
+- implemented bottom Navigation Bar along with icons created by Andrew
+- implemented time plicker and displayed the result on the screen created by Andrew 
 
 Individual Screens
 World Clock Michael
