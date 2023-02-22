@@ -8,13 +8,6 @@ import {
 	  StatusBar,
 } from 'react-native';
 
-import {
-	  Header,
-	  LearnMoreLinks,
-	  Colors,
-	  DebugInstructions,
-	  ReloadInstructions,
-} from 'react-native/Libraries/NewAppScreen';
 import { Timer } from 'react-native-progress-timer'
 import * as Progress from 'react-native-progress'
 const App: () => React$Node = () => {
