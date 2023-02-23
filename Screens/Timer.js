@@ -4,8 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Stopwatch() {
   return (
     <View style={styles.container}>
-      <Text>Stopwatch Screen</Text>
-      <Text>Andrew's Screen</Text>
+      <Text>Timer Screen</Text>
+      <Text>Ranbir's Screen</Text>
       <StatusBar style="auto" />
     </View>
   );
