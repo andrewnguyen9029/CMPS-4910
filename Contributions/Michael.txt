@@ -26,3 +26,12 @@ End-of-Term Progress Report		Table 2.0
 End-of-Term Presentation		Slides 5-6
 						-Verification Widget Obstacles
 						-PEMDAS Example
+Spring 2023
+Project					Feature
+App.js					Worked on adding timepicker
+							-Andrew's code used instead
+							-~about 2 weeks
+
+Alarm.js				Created checker and ringer functions
+							-functions rewritten and reimplemented multiple times
+							-~about 3 weeks
