@@ -37,10 +37,10 @@ March 13, 2023      Plan to work on my stopwatch screen
                       - begin to implement a stopwatch time
 
 March 20, 2023      Plan to work on my stopwatch screen 
-                      -
+                      - Working on implementing the stopwatch
 
 March 27, 2023      Plan to work on my stopwatch screen 
-                      -
+                      - Continue working on the stopwatch screen 
 
 April 3, 2023     Finalizing each group memeber's screen contribution 
                   - alarm screen Group
