@@ -28,20 +28,25 @@ February 27, 2023   Pass the initiative over to either Michael or Ranbir
                         I pass the initiative to either Michael or Ranbir. Either Michael or Ranbir are responsible in implement the alarm function. 
                         I am going to begin researching on how to approach creating the stopwatch screen. 
 
-March 6, 2023       Plan to Begin researching my stopwatch screen that was assign to me
+March 6, 2023       Begin researching my stopwatch screen that was assign to me
                       - Researching information on how to approach as well as desgin a stopwatch using reactnative
+                      - Researching how to implement the stopwatch display, face, or screen 
+                      - Researching how to divide the time by hour, minutes, and seconds
 
-March 13, 2023      Plan to work on my stopwatch screen 
+March 13, 2023      Work on my stopwatch screen 
                       - Start on my Stopwatch screen 
                       - using the deflaut app on iOS as a guide for the layout design as well as inspiration 
                       - begin to implement a stopwatch time
+                      - Measuring the sumulative time of the user from the stopwatch 
 
 March 20, 2023      Plan to work on my stopwatch screen 
                       - Working on implementing the stopwatch
                       - prototype of the stopwatch functionality
+                      - Working on implementing laps on the stopwatch 
 
 March 27, 2023      Plan to work on my stopwatch screen 
                       - Continue working on the stopwatch screen 
+                      - Cumalative time and time alaps 
 
 April 3, 2023     Finalizing each group memeber's screen contribution 
                   - alarm screen Group
