@@ -114,6 +114,13 @@ const styles = StyleSheet.create({
 
 /* Andrew Nguyen
 Imported the date and time picker 
+time pickervisible etc
+selected time etc
+
+showTimePicker
+hideTimePicker
+handleTimePicker
+hideTimepicker
 created const variable for the time selected from the user 
 */ 
 
