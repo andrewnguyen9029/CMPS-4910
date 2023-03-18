@@ -32,7 +32,7 @@ March 6, 2023       Begin researching my stopwatch screen that was assign to me
                       - Researching information on how to approach as well as desgin a stopwatch using reactnative
                       - Researching how to implement the stopwatch display, face, or screen 
                       - Researching how to divide the time by hour, minutes, and seconds
-
+                    Troubleshooting: error code was pushed, reverse the commit
 March 13, 2023      Work on my stopwatch screen 
                       - Start on my Stopwatch screen 
                       - using the deflaut app on iOS as a guide for the layout design as well as inspiration 
