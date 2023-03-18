@@ -33,11 +33,15 @@ March 6, 2023       Begin researching my stopwatch screen that was assign to me
                       - Researching how to implement the stopwatch display, face, or screen 
                       - Researching how to divide the time by hour, minutes, and seconds
                     Troubleshooting: error code was pushed, reverse the commit
+
 March 13, 2023      Work on my stopwatch screen 
                       - Start on my Stopwatch screen 
                       - using the deflaut app on iOS as a guide for the layout design as well as inspiration 
                       - begin to implement a stopwatch time
                       - Measuring the sumulative time of the user from the stopwatch 
+                    Expo 
+                      - working on implementation of themy selection of the Expo
+                      - navigation bar and user interface for the alarm, allow the user to select and display their selected time
 
 March 20, 2023      Plan to work on my stopwatch screen 
                       - Working on implementing the stopwatch
@@ -45,11 +49,13 @@ March 20, 2023      Plan to work on my stopwatch screen
                       - Working on implementing laps on the stopwatch 
                     Expo 
                       - Working on implementing the flow diagram, timeline, and frameworks and languages
+
 March 27, 2023      Plan to work on my stopwatch screen 
                       - Continue working on the stopwatch screen 
                       - Cumalative time and time alaps 
                     Expo 
                       - Working on implementing the flow diagram, timeline, and frameworks and languages
+
 April 3, 2023     Finalizing each group memeber's screen contribution 
                   - alarm screen Group
                   - world clock screen desgin by Michael 
