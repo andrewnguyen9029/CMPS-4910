@@ -58,9 +58,13 @@ March 27, 2023      Plan to work on my stopwatch screen
 
 April 3, 2023     Finalizing each group memeber's screen contribution 
                   - alarm screen Group
-                  - world clock screen desgin by Michael 
+                      - Individual contribution by Andrew Nguyen
+                          - created the navigation bar design  by Andrew
+                          - created the time picker for the user design  by Andrew
+                          - displayed the selected of the user on the screen design  by Andrew
+                  - world clock screen assigned to Michael 
                   - stopwatch screen desgin by Andrew
-                  - timer screen desgin by Ranbir 
+                  - timer screen assigned to Ranbir 
 
 April 10, 2023    Final
 April 17, 2023
