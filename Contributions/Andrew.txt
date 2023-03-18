@@ -60,6 +60,7 @@ April 3, 2023     Finalizing each group memeber's screen contribution
                   - alarm screen Group
                       - Individual contribution by Andrew Nguyen
                           - created the navigation bar design  by Andrew
+                          - created the time selector for the user to select the time
                           - created the time picker for the user design  by Andrew
                           - displayed the selected of the user on the screen design  by Andrew
                   - world clock screen assigned to Michael 
