@@ -43,11 +43,13 @@ March 20, 2023      Plan to work on my stopwatch screen
                       - Working on implementing the stopwatch
                       - prototype of the stopwatch functionality
                       - Working on implementing laps on the stopwatch 
-
+                    Expo 
+                      - Working on implementing the flow diagram, timeline, and frameworks and languages
 March 27, 2023      Plan to work on my stopwatch screen 
                       - Continue working on the stopwatch screen 
                       - Cumalative time and time alaps 
-
+                    Expo 
+                      - Working on implementing the flow diagram, timeline, and frameworks and languages
 April 3, 2023     Finalizing each group memeber's screen contribution 
                   - alarm screen Group
                   - world clock screen desgin by Michael 
