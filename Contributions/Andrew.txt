@@ -56,7 +56,7 @@ March 27, 2023      Plan to work on my stopwatch screen
                     Expo 
                       - Working on implementing the flow diagram, timeline, and frameworks and languages
 
-April 3, 2023     Finalizing each group memeber's screen contribution 
+April 17, 2023 Finalizing each group memeber's screen contribution 
                   - alarm screen Group
                       - Individual contribution by Andrew Nguyen
                           - created the navigation bar design  by Andrew
@@ -66,11 +66,11 @@ April 3, 2023     Finalizing each group memeber's screen contribution
                   - world clock screen assigned to Michael 
                   - stopwatch screen desgin by Andrew
                   - timer screen assigned to Ranbir 
+ 
+April 24, 2023    Expo 
+                  Pushed my screen to Github
 
-April 10, 2023    Final
-April 17, 2023
-April 24, 2023    
-May   01, 2023
+May   05, 2023    Final 
 _________________________________________________________________________________________________________________________
 
 Term: Fall 2022 CMPS-4910
