@@ -25,8 +25,10 @@ export default function App() {
               let iconName;
   
               //ionic.io/ionicons by Andrew Nguyen
-              if (route.name === 'WorldClock') {
-                iconName = focused ? 'ios-globe': 'ios-globe-outline';
+              if (route.name === 'Settings') {
+                //OG: route.name ==='WorldClock'
+                iconName = focused ? 'settings': 'settings-outline';             
+                //OG: iconName = focused ? 'ios-globe': 'ios-globe-outline';
                } 
                else if (route.name === 'Alarm') {
 
@@ -47,8 +49,9 @@ export default function App() {
             tabBarInactiveTintColor: 'gray',
           })}
         >
-          <Tab.Screen name = "WorldClock" component = {WorldClock}/>
+          <Tab.Screen name = "Settings" component = {WorldClock}/>
           <Tab.Screen name = "Alarm" component = {Alarm} 
+          //OG: Tab.Screen name = "WorldClock" component = {WorldClock}
           //change title of a screen
           //options = {{title: 'alarm'}}
           options = {{
