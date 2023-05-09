@@ -29,7 +29,7 @@ export default function Alarm() {
 
 	const ringer = async () => {
 		console.log(`inside ringer`);
-		const { sound } = await Audio.Sound.createAsync(require('../seniorProject23/assets/alarm2.wav'));
+		const { sound } = await Audio.Sound.createAsync(require('../assets/alarm2.wav'));
 		setSoundObject(sound);
 		console.log('loading sound');
 		await sound.setIsLoopingAsync(true);
