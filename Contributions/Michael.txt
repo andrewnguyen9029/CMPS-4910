@@ -31,7 +31,55 @@ Project					Feature
 App.js					Worked on adding timepicker
 							-Andrew's code used instead
 							-~about 2 weeks
+						Updated navigation bar to reflect changing of WorldClock screen to Obstacle Settings screen
 
 Alarm.js				Created checker and ringer functions
 							-functions rewritten and reimplemented multiple times
 							-~about 3 weeks
+						Created switchFlags, submitAnswer, and getRandom functions
+							-used in some previous functions 
+							-~about 2 weeks
+						Created modals, variables, and functions that are used by popup widgets
+							-alarm ringing does not stop until correctly solved
+							-~about 3 weeks
+
+WorldClock.js			Changed into Obstacle Settings Screen
+						Created toggle switches to customize displayed obstacles on alarm completion
+							-status of toggle switches sent to alarm.js
+							-~about 3 weeks
+
+PEMDAS.js				Created PEMDAS (order of operations) obstacle
+							-7 variations
+							-variation chosen at random
+							-variant answer sent to alarm.js
+							-~about 1 week
+
+Spot.js					Created Spot the Difference obstacle	
+							-7 variations
+							-variation chosen at random
+							-variant answer sent to alarm.js
+							-~about 1 week
+
+Number.js				Created Number Input obstacle
+							-concept rewritten and implemented multiple times
+							-~about 1 week
+							-90,000,000 variations
+							-variation chosen at random
+							-variant answer sent to alarm.js
+							-~about 1 week
+
+None.js					Created None obstacle
+							-for use when user used to fully waking up on alarm completion
+							-1 variation
+							-~about 1 week
+
+Group Report and Code Documentation		III Changes to Project		
+										IV Implementation
+											I 	WorldClock change to Obstacle Screen
+											II 	Alarm Screen
+												Alarm Screen Individual Responsibility by Michael 
+											V 	Obstacles
+										VI	Appendix: Code Description
+											Overview
+											Individual Directories
+												Michael's Directories
